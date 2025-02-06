@@ -1,4 +1,4 @@
-# Data-Analytics-# 
+# Data-Analytics-Capstone Projects
 
 **Overcoming Critical Challenges in Sustainable Energy Access and Utilization in Ethiopia**
 
@@ -24,6 +24,8 @@ This project applies predictive models to **forecast energy trends** and **suppo
 - **Machine Learning Models:** Use **Linear Regression**, **Decision Tree Regression**, and **Random Forest Regression** to forecast energy trends.
 - **Data Visualization:** Interactive dashboard built with **Dash** and **Plotly** for visualizing key indicators.
 - **Comparative Analysis:** Benchmark Ethiopia's energy metrics against neighboring countries (e.g., Kenya, Somalia, Sudan).
+![Renewable Energy Chart 1](https://drive.google.com/uc?export=download&id=15N9ILrCh8J8c7_5JtlHHAE0bm0vgfynG)
+![Renewable Energy Chart 2](https://drive.google.com/uc?export=download&id=1g6PiD1QDPNtX-rXId6rmqEOGLELLo_lb)
 
 ---
 
@@ -61,6 +63,7 @@ The dataset was sourced from the **World Bank's Sustainable Energy for All** ini
 
 ---
 
+
 ## **Machine Learning Models**
 
 | Model                    | Mean Squared Error (MSE) | R² Score |
@@ -95,6 +98,7 @@ Using Google Colab helped streamline data analysis, machine learning model devel
 ### **Static Plots**
 - **Histogram:** Distribution of the selected feature.
 - **Box Plot:** Distribution and spread of renewable electricity share across different regions or categories.
+![Renewable Energy Chart](https://drive.google.com/uc?export=view&id=1_wEjmd7IpMHkY1rNYc-_c07lRUeBHfIg)
 
 ---
 
