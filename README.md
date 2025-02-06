@@ -114,7 +114,8 @@ The **Random Forest Regression** model was the most effective in capturing compl
    ```bash https://github.com/Giya67/Data-Analytics-
    ```
 3. Install required dependencies:
-   ```bash import pandas as pd
+   ```bash
+import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
