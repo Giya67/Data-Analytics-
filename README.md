@@ -109,14 +109,17 @@ The **Random Forest Regression** model was the most effective in capturing compl
 
 1. Clone the repository:
    ```bash
+   
    https://github.com/Giya67/Data-Analytics-.git
    ```
 2. Navigate to the project directory:
    ```bash
+   
    https://github.com/Giya67/Data-Analytics-
    ```
 3. Install required dependencies:
-   ```bash 
+   ```bash
+   
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -124,9 +127,11 @@ import matplotlib.pyplot as plt
    ```
 4. Run the dashboard:
    ```bash
+
 !pip install dash
 !pip install dash-bootstrap-components
 !pip install plotly
+
    ```
 
 ---
