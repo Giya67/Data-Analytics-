@@ -108,17 +108,13 @@ The **Random Forest Regression** model was the most effective in capturing compl
 ## **Installation Instructions**
 
 1. Clone the repository:
-   ```bash
-https://github.com/Giya67/Data-Analytics-.git
+   ```bash https://github.com/Giya67/Data-Analytics-.git
    ```
 2. Navigate to the project directory:
-   ```bash
-   https://github.com/Giya67/Data-Analytics-
+   ```bash https://github.com/Giya67/Data-Analytics-
    ```
 3. Install required dependencies:
-   ```bash
-   
-import pandas as pd
+   ```bash import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
