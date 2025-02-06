@@ -117,10 +117,9 @@ The **Random Forest Regression** model was the most effective in capturing compl
    ```
 3. Install required dependencies:
    ```
-bash
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+bash import pandas as pd
+     import seaborn as sns
+     import matplotlib.pyplot as plt
 
    ```
 4. Run the dashboard:
