@@ -72,6 +72,18 @@ The dataset was sourced from the **World Bank's Sustainable Energy for All** ini
 The **Random Forest Regression** model was the most effective in capturing complex relationships between energy indicators, making it suitable for trend prediction.
 
 ---
+## **Development Environment**
+The project was developed and executed using Google Colab, a cloud-based Jupyter notebook environment that allows for scalable and collaborative data science workflows. Key benefits of using Google Colab include:
+
+- **Free access to GPU/TPU resources:** for faster model training.
+
+- **Integrated Python libraries:** with minimal setup required.
+
+- **Collaboration features:** to share notebooks and work simultaneously with team members.
+
+- **Easy integration with Google Drive:** for dataset storage and management.
+
+Using Google Colab helped streamline data analysis, machine learning model development, and visualization processes, ensuring efficient resource utilization.
 
 ## **Dashboard Features**
 
@@ -117,14 +129,14 @@ The **Random Forest Regression** model was the most effective in capturing compl
    ```bash
     https://github.com/Giya67/Data-Analytics-
    ```
-4. Install required dependencies:
+4. import required dependencies:
    
 ```bash
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
  ```
-4. Run the dashboard:
+4. Install required dependencies to run the dashboard:
    
 ```bash
 !pip install dash
