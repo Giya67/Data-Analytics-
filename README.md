@@ -98,7 +98,8 @@ Using Google Colab helped streamline data analysis, machine learning model devel
 ### **Static Plots**
 - **Histogram:** Distribution of the selected feature.
 - **Box Plot:** Distribution and spread of renewable electricity share across different regions or categories.
-![Renewable Energy Chart](https://drive.google.com/uc?export=view&id=1_wEjmd7IpMHkY1rNYc-_c07lRUeBHfIg)
+![Renewable Energy Chart](https://drive.google.com/uc?id=1BbALdmN5GrsQ2Ua2dPxKcdaxbicFwK0y)
+
 
 ---
 
